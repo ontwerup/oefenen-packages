@@ -4,7 +4,8 @@
   "description": "eerste project unit testen",
   "main": "index.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
   },
   "author": "Marij ten Hagen",
   "license": "ISC",
