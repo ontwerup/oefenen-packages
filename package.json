@@ -1,0 +1,14 @@
+{
+  "name": "oefenen-packages",
+  "version": "1.0.0",
+  "description": "eerste project unit testen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Marij ten Hagen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
